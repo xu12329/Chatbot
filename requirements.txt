@@ -1,0 +1,7 @@
+sounddevice==0.4.6
+numpy
+scipy
+torch
+transformers
+openai
+python-dotenv==1.0.0
